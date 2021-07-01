@@ -6,7 +6,7 @@ float d;
 
 void main()
 {
-    printf("enter ( x co ordinate  an y co ordinate  values ");
+    printf("enter x co ordinate  an y co ordinate  values ");
     scanf("%d%d%d%d",&x1,&x2,&y1,&y2);
 
     d = sqrt(pow((x2-x1),2) +pow((x2 -x1),2));
